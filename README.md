@@ -69,6 +69,8 @@ endmodule
 ![OUTPUT](./P3.jpeg)
 ## Timing Diagram:
 ![OUTPUT](./P4.jpeg)
+![OUTPUT](./ha.jpeg)
+
 
 ### Full Adder :
 ##  Logic Symbol:
@@ -79,6 +81,7 @@ endmodule
 ![OUTPUT](./P7.jpeg)
 ## Timing Diagram:
 ![OUTPUT](./P8.jpeg)
+![OUTPUT](./fu.jpeg)
 
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
